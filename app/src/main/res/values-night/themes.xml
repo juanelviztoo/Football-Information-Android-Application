@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TheWonderfulWorldOfFootball" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/hotPink</item>
+        <item name="colorPrimaryVariant">@color/darkerPink</item>
+        <item name="colorOnPrimary">@color/lightDark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/lightPink</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Background for profile fragment -->
+        <item name="profileBackground">@drawable/football_bg7</item>
+    </style>
+
+    <!-- Image Border Color -->
+    <style name="BorderColor">
+        <item name="civ_border_color">?attr/colorSecondary</item>
+    </style>
+
+    <!-- Image Background Profile -->
+    <style name="ProfileBackground">
+        <item name="background">@drawable/football_bg7</item>
+    </style>
+
+<!--    &lt;!&ndash; Text Background Color &ndash;&gt;-->
+<!--    <style name="TextBackgroundColor">-->
+<!--        <item name="background">@color/lightDark</item>-->
+<!--    </style>-->
+</resources>

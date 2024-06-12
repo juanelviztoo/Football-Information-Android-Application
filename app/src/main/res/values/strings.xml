@@ -1,0 +1,378 @@
+<resources>
+    <string name="app_name">The Wonderful World Of Football</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">List Clubs</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">My Profile</string>
+    <string name="title_detail_club">More Details About The Club</string>
+
+    <!-- Home Fragment Content -->
+    <string name="image_description">Football is The Most Beautiful Thing</string>
+    <string name="welcome_message">Hey there, please welcome to my information about the football club application!</string>
+    <string name="description">I have developed this application to present you with the information about football club.
+                Venture out as much as you like and embrace the magic, you can reach them by going to the center of the navigation below
+                on the “list clubs” section, have a great experience!</string>
+    <string name="go_to_linkedin">GO TO MY LINKEDIN</string>
+    <string name="go_to_instagram">GO TO MY INSTAGRAM</string>
+
+    <!-- Profile Fragment Content -->
+    <string name="fullname_placeholder">Elvizto Juan Khresnanda</string>
+    <string name="nim_placeholder">L0122054</string>
+    <string name="major_year_placeholder">Informatics, Batch 2022</string>
+    <string name="faculty_placeholder">Faculty of Information Technology and Data Science</string>
+    <string name="university_placeholder">Sebelas Maret University</string>
+    <string name="email_placeholder">elvizto.juan.k@gmail.com\nelvizto.jujuworld@student.uns.ac.id</string>
+    <string name="description_title">- About Me -</string>
+    <string name="description_placeholder">Hii there! let me introduce myself, my name is Elvizto Juan Khresnanda, or called as EL as my friends usually call it.
+                I am a person who is very passionate and ambitious in terms of improving myself in whatever conditions and wherever I am.
+                Many people call me a Social Butterfly, yeah I think it is truly true, aka I really like socializing with people,
+                joking with them, making unforgettable moments with the people, or just meeting and talking about life.</string>
+    <string name="welcome_placeholder">Hello there! click the button below to get to know more about me!</string>
+    <string name="share_button">SHARE MY PROFILE!</string>
+
+    <!-- Dashboard Fragment Content -->
+    <string name="league_name">League</string>
+    <string name="club_name">Football Club</string>
+    <string name="description_club">About Briefly</string>
+    <string name="club_button">Visit The Official Website</string>
+    <!-- URL to Football Club Official Website -->
+    <string-array name="club_websites">
+        <item>https://www.manutd.com/</item>
+        <item>https://www.liverpoolfc.com/</item>
+        <item>https://www.chelseafc.com/en</item>
+        <item>https://www.arsenal.com/</item>
+        <item>https://www.fcbarcelona.com/en/</item>
+        <item>https://www.realmadrid.com/en-US</item>
+        <item>https://en.atleticodemadrid.com/</item>
+        <item>https://www.athletic-club.eus/en/</item>
+        <item>https://www.acmilan.com/en</item>
+        <item>https://www.juventus.com/id/</item>
+        <item>https://www.inter.it/en</item>
+        <item>https://www.asroma.com/en</item>
+        <item>https://fcbayern.com/en</item>
+        <item>https://www.bvb.de/eng</item>
+        <item>https://rbleipzig.com/en/</item>
+        <item>https://www.bayer04.de/en-us</item>
+        <item>https://id.psg.fr/</item>
+        <item>https://www.om.fr/en</item>
+        <item>https://www.ol.fr/en</item>
+        <item>https://www.losc.fr/</item>
+    </string-array>
+    <!-- Leagues Name -->
+    <string-array name="leagues">
+        <item>English Premier League</item>
+        <item>La Liga</item>
+        <item>Serie A</item>
+        <item>Bundesliga</item>
+        <item>Ligue 1 France</item>
+    </string-array>
+    <!-- Football Clubs Name -->
+    <string-array name="data_name">
+        <item>Manchester United</item>
+        <item>Liverpool</item>
+        <item>Chelsea</item>
+        <item>Arsenal</item>
+        <item>FC Barcelona</item>
+        <item>Real Madrid</item>
+        <item>Atletico de Madrid</item>
+        <item>Athletic Bilbao</item>
+        <item>AC Milan</item>
+        <item>Juventus</item>
+        <item>Inter Milan</item>
+        <item>AS Roma</item>
+        <item>Bayern Munchen</item>
+        <item>Borussia Dortmund</item>
+        <item>RB Leipzig</item>
+        <item>Bayer 04 Leverkusen</item>
+        <item>Paris Saint Germain</item>
+        <item>Marseille</item>
+        <item>Lyon</item>
+        <item>Lille</item>
+    </string-array>
+    <!-- Football Clubs Description -->
+    <string-array name="data_desc">
+        <item><![CDATA[Manchester United Football Club (dikenal pula sebagai The Red Devils) adalah sebuah klub sepak bola profesional
+            yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Utama Inggris dengan gelar Liga Utama Inggris terbanyak sepanjang masa.
+            Didirikan sebagai Newton Heath LYR Football Club pada tahun 1878, klub ini berganti nama menjadi Manchester United pada 1902
+            dan pindah ke Old Trafford pada tahun 1910.\n\nManchester United telah memenangkan banyak trofi di sepak bola Inggris,
+            termasuk 20 gelar Liga—terbanyak dalam sejarah, 12 gelar Piala FA, 6 gelar Piala Liga dan 21 gelar Community Shield FA—juga
+            terbanyak dalam sejarah. Klub ini juga telah memenangkan tiga gelar Piala/Liga Champions, satu Liga Eropa UEFA,
+            satu Piala Winners UEFA, satu Piala Super UEFA, satu Piala Interkontinental, dan satu Piala Dunia Antarklub FIFA—klub
+            Inggris pertama yang menjuarai ajang ini. Pada musim 1998–1999, klub ini memenangkan treble (trigelar) dari Liga Utama, Piala FA, dan Liga Champions;
+            prestasi ini belum pernah terjadi sebelumnya untuk klub Inggris. Manchester United juga merupakan salah satu klub tersukses sepanjang masa di Inggris.\n\nManchester United adalah klub sepak bola terkaya ketiga di dunia untuk 2011–12 dalam hal pendapatan, dengan pendapatan tahunan sebesar €395.9 juta,
+            dan kedua klub paling berharga tahun 2013, senilai $3.165 miliar. Pada bulan Januari 2015 lalu, Manchester United dinobatkan sebagai klub terkaya kedua di dunia,
+            Ini adalah salah satu tim sepak bola yang paling banyak didukung di dunia. Setelah sahamnya tercatat di London Stock Exchange pada tahun 1991,
+            klub itu dibeli oleh Malcolm Glazer pada Mei 2005 di kesepakatan menilai klub di hampir £800 juta. Pada bulan Agustus 2012,
+            Manchester United melakukan penawaran umum perdana di Bursa Efek New York.\n\nManchester United terkenal sebagai
+            klub sepak bola paling populer di dunia, dengan salah satu yang tertinggi rata-rata kehadiran kandang di Eropa.
+            Klub menyatakan bahwa basis penggemar di seluruh dunia termasuk lebih dari 200 cabang yang diakui secara resmi dari Manchester United
+            Suporter Club (MUSC), di setidaknya 24 negara. Klub ini mengambil keuntungan dari dukungan ini melalui tur musim panas di seluruh dunia.
+            Perusahaan akuntansi dan industri olahraga konsultan Deloitte memperkirakan bahwa Manchester United memiliki 75 juta penggemar di seluruh dunia,
+            perkiraan lain menempatkan angka ini mendekati 333 juta.]]></item>
+        <item><![CDATA[Liverpool Football Club (dikenal pula sebagai Liverpool atau The Reds) adalah sebuah klub sepak bola profesional
+            asal Inggris yang berbasis di Liverpool. Didirikan pada tahun 1892, Liverpool kemudian bergabung dengan Football League di tahun berikutnya
+            dan sejak pembentukannya memainkan pertandingan kandang mereka di Stadion Anfield yang terletak sekitar 4,8 km dari pusat kota.\n\nPada kompetisi domestik,
+            Liverpool telah memenangkan 19 Gelar Liga, 8 Piala FA, rekor 10 Piala Liga dan 16 Community Shield FA. Pada kompetisi internasional,
+            Liverpool telah memenangkan 6 Piala Eropa, 3 Piala UEFA, 4 Piala Super UEFA—rekor terbanyak di Inggris dan 1 Piala Dunia Antarklub FIFA.
+            Liverpool memantapkan dirinya sebagai salah satu klub besar di tingkat domestik serta Eropa pada era 1970an dan 1980an, ketika Bill Shankly,
+            Bob Paisley, Joe Fagan, dan Kenny Dalglish, memimpin klub untuk meraih 11 gelar Liga dan 4 Piala Eropa. Liverpool kemudian memenangkan kembali
+            2 Piala Eropa pada tahun 2005 dan 2019 di bawah pelatih Rafael Benitez dan Jürgen Klopp; Klopp kemudian memimpin Liverpool untuk meraih
+            Gelar Liga ke-19 di tahun 2020, yang merupakan gelar liga pertama Liverpool di era Liga Utama Inggris.\n\nLiverpool merupakan salah satu
+            klub terkaya dan memiliki suporter yang cukup banyak di seluruh dunia. Liverpool memiliki sejarah persaingan yang panjang dengan klub sekotanya Everton
+            dan juga dengan Manchester United. Persaingan dengan klub sekota terkenal dengan nama Derby Merseyside. Sedangkan dengan Manchester United di kenal dengan
+            sebutan North West Derby. Di bawah kepelatihan Bill Shankly, di tahun 1964 Liverpool merubah warna tim mereka dari baju merah dan celana putih
+            menjadi baju dan celana merah yang hingga kini warna tersebut masih digunakan. Dengan lagu Liverpool F.C. adalah "You'll Never Walk Alone".]]></item>
+        <item><![CDATA[Chelsea Football Club (dikenal pula sebagai The Blues) adalah sebuah klub sepak bola profesional yang bermarkas di Fulham, London.
+            Didirikan pada 1905, klub ini kini berkompetisi di Liga Utama Inggris dan memainkan pertandingan kandang mereka di Stamford Bridge.
+            Chelsea merupakan salah satu klub tersukses di Inggris, dengan telah memenangkan lebih dari tiga puluh gelar juara kompetisi klub liga dan juga internasional.\n\nKesuksesan pertama
+            Chelsea diraih saat meraih gelar juara Divisi 1 Liga Inggris pada 1955. Klub ini memenangkan gelar juara Piala Liga Inggris untuk pertama kali
+            pada 1965, gelar juara Piala FA untuk pertama kali pada 1970, dan gelar juara kompetisi klub Eropa, Piala Winners Eropa untuk pertama kali pada
+            1971. Beberapa gelar dari berbagai kompetisi juga berhasil diraih pada dekade 1990-an, 2000-an, 2010-an, dan 2020-an. Dalam 25 tahun terakhir
+            merupakan periode terbaik kesuksesan Chelsea dengan meraih lima gelar juara Liga Utama Inggris, termasuk untuk pertama kali meraih gelar ganda
+            Liga Utama Inggris dan Piala FA pada 2010; tujuh gelar juara Piala FA, empat gelar juara Piala Liga Inggris, dua gelar juara Liga Champions UEFA,
+            dua gelar juara Liga Eropa UEFA, dua gelar juara Piala Super UEFA, dan satu gelar juara Piala Dunia Antarklub FIFA. Klub ini merupakan salah satu
+            dari lima klub yang telah memenangkan ketiga kompetisi klub utama UEFA, klub asal Inggris pertama dengan pencapaian tersebut. Chelsea juga merupakan
+            satu-satunya klub asal London yang berhasil meraih juara Liga Champions UEFA dan Piala Dunia Antarklub FIFA..\n\nKlub ini memiliki
+            rivalitas dengan klub satu kota London Arsenal dan Tottenham Hotspur; dengan klub-klub sekitar London Barat, serta rivalitas bersejarah
+            dengan Leeds United. Chelsea memiliki pusat pelatihan yang terletak di Cobham, Surrey. Pusat pelatihan yang digunakan sejak 2007 ini memiliki
+            nama Pusat Pelatihan Cobham, fasilitas yang dibangun menghabiskan biaya mencapai £20 juta.]]></item>
+        <item><![CDATA[Arsenal Football Club (dikenal pula sebagai Arsenal atau The Gunners) adalah klub sepak bola profesional Inggris yang berbasis
+            di daerah Holloway, London. Didirikan pada 1886 dengan nama Dial Square di Woolwich dan pada tahun 1893 menjadi klub pertama
+            dari selatan Inggris untuk bergabung dengan Football League. Klub ini bermain di Liga Utama Inggris yang termasuk salah satu
+            klub tersukses di sepak bola Inggris, yang telah memenangkan 13 gelar kasta utama Liga Inggris (10 pada era Divisi Pertama dan 3 pada era Premier League)
+            dan menjadi club pemenang gelar Piala FA paling banyak yakni 14 gelar piala FA. Arsenal memegang rekor untuk periode terpanjang berada di kasta
+            puncak Liga Inggris tanpa pernah terdegradasi sejak musim 1919 dan menjadi tim pada peringkat pertama dalam klasemen Liga Inggris sepanjang
+            abad ke-20. Arsenal menjadi tim kedua di Inggris yang menyelesaikan semusim liga tanpa kalah (musim 2003–04) dan tim pertama yang melakukannya
+            pada era di mana satu musim berlangsung 38 pertandingan.\n\nArsenal didirikan pada 1886 di Woolwich dan pada tahun 1893 menjadi klub pertama
+            dari selatan Inggris untuk bergabung dengan Football League. Pada tahun 1913, hal itu bergerak ke utara melintasi kota Stadion Arsenal di Highbury.
+            Pada 1930, klub telah memenangkan lima gelar Liga Championship dan dua Piala FA. Setelah periode bersandar pada tahun-tahun pasca-perang itu
+            memenangkan Liga dan Piala FA ganda, di musim 1970-71, dan pada 1990-an dan dekade pertama abad ke-21 memenangkan dua gelar ganda
+            dan mencapai Final Liga Champions UEFA 2006.\n\nArsenal memiliki persaingan lama dengan tim sesama London Utara Tottenham Hotspur,
+            dengan kontes Derby London Utara. Arsenal adalah klub sepak bola terkaya keempat di dunia pada tahun 2013, senilai lebih dari $13 miliar.
+            Di kancah Premier League, Arsenal termasuk salah satu tim yang tidak pernah terdegradasi. Faktanya, Arsenal merupakan
+            tim sepak bola pertama yang memperkenalkan penggunaan angka pada jersey.]]></item>
+        <item><![CDATA[Fútbol Club Barcelona (dikenal pula sebagai Barcelona atau Barça), adalah klub sepak bola profesional yang berbasis di Barcelona,
+            Catalonia, Spanyol, yang ikut serta di kompetisi tertinggi sepak bola Spanyol, La Liga. Didirikan pada tahun 1899 oleh sekelompok pemain Swiss,
+            Inggris, Jerman dan Catalonia yang dipimpin oleh Joan Gamper, klub telah menjadi simbol budaya Catalonia dan Catalanisme,
+            yang mempunyai motto "Més que un club" (Lebih dari sebuah klub). Lagu kebangsaan resmi Barcelona adalah "Cant del Barça", yang ditulis
+            oleh Jaume Picas dan Josep Maria Espinas. Secara tradisional, Barcelona mengenakan kostum merah dan biru, sehingga klub ini
+            dijuluki Blaugrana.\n\nKlub ini masuk menjadi peserta Primera División (Divisi Utama) sejak tahun 1928, dan bersama-sama Real Madrid dan Athletic Bilbao
+            menjadi tim yang tak pernah terdegradasi ke Segunda División (Divisi Dua). Klub ini juga menjadi klub yang menjuarai liga Spanyol pertama kali.
+            Dengan persembahan 27 gelar Liga Spanyol, 31 gelar Copa del Rey, 14 gelar Piala Super Spanyol, 5 gelar Liga Champions Eropa, 4 gelar Piala Winners UEFA,
+            4 gelar Piala Super Eropa, FC Barcelona menjadi salah satu tim tersukses di Spanyol, Eropa, dan dunia. Bukti paling nyata ketika pada tahun 2009 FC Barcelona
+            berhasil menjadi klub Spanyol pertama yang berhasil meraih gelar treble (juara La Liga, Copa del Rey, dan Liga Champions). Dilanjutkan dengan peraihan
+            gelar Piala Super Spanyol, Piala Super Eropa dan Piala Dunia Antarklub FIFA untuk melengkapi peraihan gelarnya menjadi Sextuples. Barcelona merupakan klub
+            bola pertama di dunia yang melakukan peraihan ini.\n\nBarcelona adalah salah satu tim yang paling didukung di dunia, dan memiliki media sosial terbesar
+            di antara tim olahraga lainnya. Penggemar Barca juga sering disebut dengan Culés. Pemain Barca telah memenangkan catatan jumlah penghargaan Ballon dOr (12),
+            serta catatan jumlah penghargaan FIFA World Player of the Year (7). Pada tahun 2010, klub membuat sejarah ketika tiga pemain yang datang melalui
+            akademinya (Messi, Iniesta & Xavi) terpilih sebagai tiga pemain terbaik di dunia, setelah mengantongi tempat teratas di FIFA Ballon dOr,
+            prestasi belum pernah terjadi sebelumnya untuk pemain dari sekolah sepak bola yang sama.]]></item>
+        <item><![CDATA[Real Madrid Club de Fútbol; Royal Madrid Football Club, yang umumnya dikenal sebagai Real Madrid, adalah klub sepak bola
+            profesional yang berbasis di Madrid, Spanyol. Didirikan pada tahun 1902 sebagai Madrid Football Club, secara tradisional mengenakan kostum kandang putih.
+            Kata Real ("dari kerajaan") Spanyol dan dianugerahkan ke klub oleh Raja Alfonso XIII pada tahun 1920 bersama-sama dengan mahkota kerajaan di lambang klub.
+            Klub ini telah memainkan pertandingan kandang di Stadion Santiago Bernabéu dengan kapasitas 85.454 di pusat kota Madrid sejak tahun 1947.\n\nKlub ini merupakan salah satu
+            klub sepak bola terkaya di dunia dalam hal pendapatan, senilai €968,3 juta dan total aset yang senilai €7,2 miliar (atau $7,2 miliar) di 2019.
+            Ini adalah salah satu dari tiga klub untuk tidak pernah terdegradasi dari papan atas sepak bola Spanyol, bersama dengan Athletic Bilbao dan Barcelona club
+            ini juga merupakan club dengan torehan piala UCL terbanyak. Real Madrid memiliki banyak persaingan lama, terutama El Clásico dengan Barcelona
+            dan El Derbi madrileño dengan Atlético Madrid.\n\nKlub ini memantapkan dirinya sebagai kekuatan utama dalam sepak bola Spanyol dan Eropa selama tahun 1950.
+            Di dalam negeri, Klub ini juga merupakan salah satu klub terbaik abad ke-20 menurut FIFA. Klub ini menjuarai Liga Champions 3 musim berturut-turut dibawah
+            kepelatihan Zinedine Zidane dan dengan mesin golnya yaitu pemain terbaik dunia Cristiano Ronaldo. Dalam kompetisi domestik, klub ini telah meraih 35 gelar
+            La Liga (rekor), 20 gelar Piala Raja Spanyol, 12 Piala Super Spanyol, 1 Copa Eva Duarte, dan 1 Copa de la Liga. Di kompetisi tingkat Eropa dan Dunia,
+            klub ini telah meraih 14 gelar Piala Champions Eropa/Liga Champions UEFA (rekor), 2 Piala UEFA/Liga Eropa UEFA, 5 Piala Super UEFA, dan
+            9 kejuaraan dunia antar klub (3 Piala Interkontinental, 5 Piala Dunia Antarklub FIFA dan 1 Piala Ibero-American).]]></item>
+        <item><![CDATA[Atlético de Madrid nama lengkap Club Atletico de Madrid SAD (singkatan dari Sociedad Anónima Deportiva), atau Atlético Madrid, atau juga disebut Atlético atau Atleti,
+            adalah tim sepak bola Spanyol yang bermain di La Liga Santander. Bermarkas di Madrid. Tim yang berdiri tahun 1903 memiliki banyak prestasi
+            yang baik dipercaturan sepak bola Spanyol. Klub ini juga memiliki rivalitas dengan tetangganya Real Madrid, yang disebut Derbi Madrid.\n\nDalam hal gelar liga yang dimenangkan,
+            Atlético Madrid adalah klub paling sukses ketiga di sepak bola Spanyol dan liga 1 – dibelakang Real Madrid dan Barcelona. Atlético telah memenangkan
+            La Liga pada 10 kesempatan, termasuk liga dan piala ganda pada tahun 1996; Piala Raja Spanyol pada 10 kesempatan; dua Piala Super Spanyol dan
+            satu Copa Eva Duarte; di Eropa, mereka memenangkan Piala Winners Eropa pada 1962, menjadi runner-up pada 1963 dan 1986, menjadi runner-up
+            Liga Champions pada 1974, 2014 dan 2016,[5] memenangkan Liga Eropa pada 2010, 2012 dan 2018, dan memenangkan Piala Super UEFA pada 2010,
+            2012 dan 2018 serta Piala Interkontinental 1974.\n\nAtlético Madrid memiliki sejarah yang berhubungan dengan Athletic Club Bilbao.
+            Pada 1903 Atlético Madrid didirikan oleh pelajar dan mahasiswa dari Basque Country yang merantau di Kota Madrid, klub ini kemudian berpisah dari
+            induknya di Bilbao pada 1920 dan memiliki nama Athletic Madrid. Maka tak heran jika lambang dan jersey Atlético Madrid dengan Athletic Club Bilbao
+            memiliki desain yang sama.]]></item>
+        <item><![CDATA[Athletic Club atau biasa disebut dengan Athletic Bilbao atau hanya Athletic, (dikenal pula sebagai Los Leones) adalah sebuah
+            tim sepak bola Spanyol yang berbasis di Bilbao, Basque Country. Tim ini didirikan tahun 1898 oleh para pelaut Inggris dari Southampton,
+            hal ini berpengaruh pada warna jersei Athletic Club.\n\nAthletic Club bagi masyarakat Basque adalah sebuah icon representasi identitas politik
+            dan budaya mereka. Pada masa Raja Alfonso, Athletic Club Bilbao dianggap sebagai klub yang dekat dengan pemberontakan, karena kuatnya pengaruh
+            ideologis tokoh nasionalis Basque, Sabino Arana, pendiri Partai Nasional Basque (PNB) oleh karena itu, Athletic Club Bilbao tidak diberikan logo
+            mahkota dan embel-embel nama real oleh pihak Kerajaan Spanyol.\n\nBersama tim Real Madrid dan FC Barcelona, tim Athletic Bilbao dijuluki sebagai
+            "tim yang tak pernah degradasi", serta tim yang memiliki banyak pemain lokal berbakat. Gelar yang pernah diraih ialah 8 juara La Liga. Klub ini
+            memainkan pertandingan kandangnya di Stadion San Mamés yang berkapasitas 39.750 penonton.]]></item>
+        <item><![CDATA[Associazione Calcio Milan, sering disebut sebagai AC Milan adalah klub Italia yang berbasis di Milan, Lombardia, yang bermain di Serie A.
+            Mereka bermain dengan seragam bergaris merah-hitam dan celana putih (kadang-kadang hitam), sehingga dijuluki Rossoneri ("merah-hitam").
+            Milan adalah tim tersukses pertama dalam sejarah persepak bolaan Italia, menjuarai Serie A 19 kali dan Piala Italia 5 kali. Klub besar Eropa ini adalah peraih
+            7 tropi UCL dan 19 Scudetto Liga Italia dan 2 tropi Seri B. Banyak pemain bintang besar pernah mengisi skuad klub ini seperti trio Belanda (Marco Van Basten, Ruud Gullit, dan Frank Rijkaard),
+            Paolo Maldini, George Weah, Shevchenko, Nesta, Kaká, Ronaldinho, Rivaldo, Ronaldo, dan masih banyak lagi. Klub ini didirikan pada tahun 1899
+            dengan nama Klub Kriket dan Sepak bola Milan (Milan Cricket and Football Club) oleh Alfred Edwards dan Herbert Kilpin, seorang ekspatriat Inggris.\n\nAC Milan adalah klub
+            tersukses ke-4 di dunia sepak bola dalam hal jumlah piala internasional bersama Boca Juniors dengan 18 gelar resmi dari UEFA dan FIFA dibawah Real Madrid,
+            FC Barcelona. Milan telah memenangkan rekor tiga Piala Interkontinental dan setelah penggantinya, Piala Dunia Antarklub FIFA. Milan juga memenangkan
+            Piala Liga Eropa atau Champions tujuh kali. yang kedua setelah Real Madrid. Mereka juga memenangkan rekor Piala Super UEFA lima kali dan
+            Piala Winners UEFA dua kali. Milan memenangkan setiap kompetisi besar di mana ia telah berkompetisi, terkecuali untuk Liga Eropa UEFA (dalam kompetisi ini mereka telah kehilangan
+            dua semifinal pada tahun 1972 dan pada tahun 2002). Secara domestik, dengan 19 gelar liga. Milan adalah gabungan kedua klub paling sukses di Serie A
+            di belakang Juventus (31 gelar), bersama dengan rival lokal Inter. Mereka juga telah memenangkan Coppa Italia sebanyak lima kali, serta rekor
+            tujuh kemenangan pada Supercoppa Italiana.\n\nLaga kandang Milan dimainkan di San Siro, juga dikenal sebagai Stadion Giuseppe Meazza.
+            Stadion yang dimiliki bersama dengan Inter, merupakan yang terbesar di sepak bola Italia, dengan total kapasitas 80.018. Inter dianggap rival terbesar mereka,
+            dan pertandingan antara kedua tim disebut Derby della Madonnina, yang merupakan salah satu derbi yang paling diikuti di dunia sepak bola.]]></item>
+        <item><![CDATA[Juventus Football Club S.p.A., biasa disebut sebagai Juventus dan populer dengan nama Juve,
+            adalah klub sepak bola profesional asal Italia yang berbasis di kota Turin, Piemonte. Klub ini didirikan pada tahun 1897 dengan nama
+            Sport Club Juventus oleh sekelompok pelajar muda di kota Turin yang dipimpin oleh seorang ahli bernama Eugenio Canfari dan saudaranya Enrico.
+            Sejak bulan September 2011, mereka berkandang di Juventus Stadium yang berkapasitas 41.507 tempat duduk.\n\nJuventus adalah klub tertua kedua di Italia,
+            setelah Genoa yang didirikan pada tahun 1893. Mereka tampil untuk pertama kalinya di liga divisi teratas Italia pada tahun 1900, setelah berganti nama menjadi
+            Football Club Juventus. Mereka terus berada di kompetisi tertinggi tersebut (yang menggunakan nama Serie A sejak tahun 1929), kecuali pada musim 2006–2007. Seiring berjalannya waktu,
+            juventus pun menjadi simbol dari budaya Italia. Klub tersebut memberikan kontribusi besar untuk tim nasional Italia sejak tahun 1920-an, turut berperan dalam kemenangan Italia pada Piala Dunia 1934,
+            1982, dan 2006.\n\nDijuluki Vecchia Signora (“Nyonya Tua”), Juventus adalah klub tersukses di Italia, dan salah satu yang paling sukses di dunia. Mereka telah memenangkan 36 gelar juara liga,
+            14 gelar Coppa Italia, dan 9 gelar Supercoppa Italiana. Selain itu, mereka juga telah berhasil meraih dua gelar Piala Interkontinental, dua gelar Liga Champions,
+            satu gelar Piala Winners, tiga gelar Piala UEFA, satu gelar Piala Intertoto, dan dua gelar Piala Super Eropa. Karena prestasi tersebut, Juventus pun memimpin
+            rangking FIGC dalam hal jumlah trofi di tingkat nasional, menempati posisi ke-5 di Eropa, dan ke-11 di dunia. Pada bulan Desember 2000,
+            Juventus menempati posisi ke-7 dalam rangking klub terbaik di dunia versi FIFA. Sembilan tahun kemudian, mereka menempati peringkat ke-2 dalam rangking
+            klub terbaik di Eropa sepanjang abad ke-20 menurut penelitian statistik dari International Federation of Football History & Statistics (IFFHS).
+            Di kedua rangking tersebut, Juventus menempati posisi yang lebih tinggi dibanding klub asal Italia lainnya.\n\nJuventus merupakan klub dengan jumlah penggemar
+            terbanyak di Italia, dan salah satu yang terbesar di dunia. Berbeda dengan banyak pendukung klub Eropa lainnya yang biasanya terkonsentrasi di sekitar kota asal
+            klub tersebut, penggemar Juventus tersebar di seantero negeri dan di antara para imigran asal Italia yang tinggal di luar negeri. Mereka pun merupakan
+            salah satu pencetus ide untuk membuat European Club Association, yang dulu dikenal dengan nama G-14, yang berisi klub-klub kaya di Eropa.]]></item>
+        <item><![CDATA[Football Club Internazionale Milano, atau yang dikenal dengan nama Internazionale ataupun juga Inter, dan bahasa sehari-hari dikenal sebagai Inter Milan,
+            adalah sebuah klub sepak bola profesional asal Italia yang saat ini bermain di Serie A Liga Italia. Inter Milan mempunyai julukan sebagai il Nerazzurri (si biru hitam),
+            il Biscone (si ular besar), dan juga La Beneamata (yang tersayang). Klub bermain di Serie A (divisi pertama) sejak tahun 1908, dan pendukung Inter Milan disebut Interisti.
+            Inter bermain di stadion Giuseppe Meazza dan berlatih di Angelo Moratti Sports Center (dikenal juga sebagai La Pinetina) sebuah fasilitas latihan di Appiano Gentile.
+            Klub ini adalah klub satu kota (rival) dengan AC Milan, dan pertandingan antara mereka terkenal dengan nama Derby della Madonnina.\n\nDari tahun 2006 hingga tahun 2010
+            adalah tahun pencapaian terbaik kedua bagi Inter sepanjang sejarah sejak berdiri. Dalam kurun waktu tersebut mereka sukses memperoleh lima gelar yaitu Serie A,
+            Coppa Italia, Liga Champions UEFA, Piala Super Italia, dan Piala Dunia Antarklub FIFA. Musim 2009-10 adalah musim terbaik dalam sejarah klub.
+            Di bawah asuhan Manajer José Mourinho, klub berhasil menjadi juara Liga Serie A, Coppa Italia, dan Liga Champions UEFA, sehingga Inter mencatatkan diri sebagai
+            klub Italia pertama yang berhasil mendapatkan tiga gelar (treble) dalam satu musim. Pencapaian ini juga menjadikan Inter sebagai klub ke-6 di Eropa setelah
+            Glasgow Celtic, Ajax Amsterdam, PSV Eindhoven, Manchester United dan Barcelona yang berhasil memperoleh gelar treble.]]></item>
+        <item><![CDATA[Associazione Sportivo Roma atau biasa di sebut dengan A.S. Roma atau Roma saja adalah klub sepak bola yang bermarkas
+            di Roma, Italia. AS Roma meraih tiga gelar Serie A dan juara edisi pertama Liga Konferensi Eropa UEFA pada musim 2021–2022.
+            Francesco Totti dan Daniele De Rossi merupakan pemain yang paling setia terhadap klub ini dan dianggap sebagai legenda terbesar klub.
+            Pertandingan kandang saat ini bermain di Stadion Olimpiade Roma, tempat mereka berbagi dengan rival sekota Lazio. Dengan kapasitas lebih dari 72.000,
+            itu adalah stadion dengan kapasitas terbesar kedua di Italia, di bawah kapasitas yang dimiliki San Siro.\n\nRoma telah menjuarai Serie A tiga kali,
+            pertama di 1941–1942 kemudian pada 1982–1983 dan pada 2000–2001, serta memenangkan sembilan gelar Coppa Italia dan Supercoppa Italiana dua gelar.
+            Di panggung Eropa, Roma memenangkan Piala Inter-Cities Fairs pada 1960-61, mendekati kemenangan Piala Eropa pada 1983-84 (kalah di final bermain di kandang
+            melawan Liverpool setelah adu penalti), berakhir sebagai runner-up di Piala UEFA untuk 1990-1991 (kalah agregat melawan Inter Milan).
+            Dan menjuarai Liga Konfederasi UEFA pada 2021-2022 setelah mengalahkan Feyenoord di Final.\n\nDalam sepak bola Italia AS Roma adalah klub dengan banyak persaingan,
+            pertama dan terpenting adalah persaingan mereka dengan rival se-kota mereka SS. Lazio. Derby antara keduanya disebut Derby della Capitale,
+            itu adalah pertandingan satu tim se-kota (derby) yang paling panas dan emosional dalam sejarah persaingan sepak bola di dunia. Dengan Napoli, Roma juga bersaing
+            di Derby del Sole persaingan yang berarti "Derby Matahari". Saat ini juga persaingan antar fans klub raksasa Serie A lainnya seperti Juventus
+            (persaingan lahir terutama pada 1980-an), Milan dan Inter (meningkat dalam tahun-tahun terakhir) yang bersaing untuk dapat menduduki zona Liga Champions.]]></item>
+        <item><![CDATA[Fußball-Club Bayern München e.V., juga dikenal sebagai Bayern München, FC Bayern Minga (dalam bahasa Bayern), atau FC Bayern,
+            adalah klub sepak bola profesional Jerman yang berbasis di kota München, Bavaria, Jerman. Klub ini terkenal sebagai klub paling sukses
+            dalam sejarah sepak bola Jerman, setelah memenangkan rekor 33 gelar nasional dan 20 piala nasional. FC Bayern didirikan pada tahun 1900 oleh
+            sebelas pemain sepak bola yang dipimpin oleh Franz John. Sejak awal musim 2005-06, Bayern telah memainkan pertandingan kandang di Allianz Arena.
+            Warna tim merah dan putih, dan tim menunjukkan bendera putih biru Bavaria.\n\nMeskipun Bayern memenangkan kejuaraan nasional
+            pertamanya pada tahun 1932, klub tersebut tidak dipilih untuk Bundesliga pada awal tahun 1963. Klub memiliki periode yang sukses terbesar di tengah tahun
+            1970-an, di bawah kapten dari Franz Beckenbauer, memenangkan Piala Champions tiga kali berturut-turut (1974-1976). Secara keseluruhan, Bayern telah
+            mencapai sebelas final Piala Champions atau Liga Champions, yang terakhir memenangkan gelar keenam mereka pada tahun 2020 sebagai bagian dari treble benua.
+            Bayern juga telah memenangkan satu Piala UEFA, satu Piala Winners UEFA, dua Piala Super UEFA, dua Piala Interkontinental dan dua Piala Dunia Antarklub FIFA,
+            membuatnya menjadi salah satu klub Eropa yang paling sukses di dunia. Sejak pembentukan Bundesliga, Bayern telah menjadi klub yang dominan dalam
+            sepak bola Jerman dengan 33 gelar dan telah memenangkan 11 dari 14 gelar terakhir. Mereka memiliki persaingan lokal tradisional dengan TSV 1860 München
+            dan 1. FC Nürnberg, serta persaingan kontemporer dengan Borussia Dortmund. Per akhir musim 2019–20, FC Bayern berada pada
+            peringkat pertama dalam peringkat koefisien klub UEFA.\n\nDalam hal pendapatan, Bayern München adalah klub olahraga terbesar di Jerman
+            dan klub sepak bola terbesar keempat di dunia, menghasilkan €587,8 juta pada tahun 2017. Pada musim 2017–18, Bayern memperoleh pendapatan €657,4 juta
+            dengan laba operasional €136,5 juta, menandakan keuntungan finansial selama 26 tahun berturut-rutut. Pada bulan November 2018, Bayern memiliki
+            291.000 anggota resmi dan terdapat 4.433 klub penggemar resmi terdaftar dengan lebih dari 390.000 anggota. Klub ini memiliki departemen lain untuk
+            catur, bola tangan, basket, senam, bowling, tenis meja, wasit, dan sepak bola senior lebih dari 1.100 anggota aktif.]]></item>
+        <item><![CDATA[Ballspielverein Borussia 09 e.V. Dortmund umumnya dikenal sebagai Borussia Dortmund, atau disingkat sebagai BVB,
+            adalah klub sepak bola Jerman yang berbasis di Dortmund, Rhine-Westphalia Utara. Didirikan pada tahun 1909 oleh delapan belas pemain sepak bola
+            dari Dortmund, tim sepak bola bagian dari sebuah klub olahraga berbasis keanggotaan besar dengan lebih dari 145.000 anggota, membuat BVB
+            menjadi klub olahraga dengan keanggotaan terbesar kedua di Jerman. Dortmund bermain di Bundesliga, tingkat teratas sistem liga sepak bola Jerman.
+            Sejak 1974, Dortmund telah memainkan pertandingan kandang mereka di Westfalenstadion, dinamai sesuai dengan wilayah asalnya di Westphalia.
+            Stadion ini adalah yang terbesar di Jerman dan Dortmund memiliki kehadiran rata-rata tertinggi dari setiap klub bola di dunia.\n\nBorussia Dortmund
+            telah memenangkan sembilan kejuaraan Jerman, lima DFB-Pokal, enam DFL-Supercup, satu Liga Champions UEFA, satu Piala Winners UEFA, dan satu Piala Interkontinental.
+            Kemenangan Piala Winners mereka pada tahun 1966 membuat mereka menjadi klub Jerman pertama yang memenangkan gelar Eropa. Dortmund memegang
+            persaingan lama dengan Ruhr tetangga Schalke 04, yang dikenal sebagai Revierderby.\n\nPendukung Borussia Dortmund mendapat julukan: Die Borussen (The Borussian),
+            Die Schwarzgelben (The Black Yellows). Sebenarnya warna kebanggaan klub ini pada awalnya adalah Biru Putih dan Merah. Namun setelah beberapa klub
+            bergabung seperti: Britannia, Rhenania dan Deutcsche Flagge sebelum Perang Dunia I, maka warna kebanggaan BVB menjadi Kuning Hitam. Schwarzgelben,
+            demikian Borussia Dortmund dijuluki, dibentuk oleh sekelompok orang yang tidak puas dengan gereja yang disponsori oleh Trinity Youth.]]></item>
+        <item><![CDATA[RasenBallsport Leipzig, umumnya dikenal sebagai RB Leipzig, adalah klub sepak bola Jerman yang berbasis di Leipzig.
+            Klub ini ditemukan pada tahun 2009 oleh inisiatif pembuat minuman energi Red Bull yang membeli hak tim divisi kelima,
+            SSV Markranstädt dengan maksud untuk memajukan klub baru ke divisi liga besar, Bundesliga dalam 8 tahun. Sepak Bola profesional dijalankan oleh
+            organisasi spin-off RasenballSport Leipzig. RB Leipzig memainkan pertandingan kandang mereka di Red Bull Arena.\n\nPada musim pertamanya,
+            2009–10, RB Leipzig mendominasi NOFV-Oberliga Süd (V) dan dipromosikan sebagai juara menuju Regionalliga Nord (IV). RB Leipzig memenangkan
+            Regionalliga Nord musim 2012-2013 tanpa kekalahan dan dipromosikan ke 3. Liga (III), lalu finis sebagai runner-up dan dipromosikan ke 2.
+            Bundesliga (II), sebagai tim pertama sejak perkenalan 3. Liga memenangkan promosi setelah satu musim. Pada 8 Mei 2016, Leipzig memastikan
+            promosi ke Bundesliga untuk (musim 2016–17 Bundesliga) ketika Karlsruher SC kalah 2-0.\n\nRB Leipzig mempunyai 27 klub fan resmi ketika November 2016.
+            2 klub fan pertama yang masuk adalah L.E Bulls dan Bulls Club, pada tahun 2009. L.E Bulls adalah yang tertua, namun Bulls Club mengklaim sebagai yang terbesar.
+            Ada juga klub fan yang tidak resmi, seperti Rasenballisten dan Fraktion Red Pride. RB Leipzig juga mempunyai kejadian ultras kecil dengan grup seperti
+            Red Aces dan Lecrats. Majalah Jerman Mitteldeutsche Zeitung melaporkan bahwa RB Leipzig mempunyai 5,000 supporter terorganisir ketika Maret 2016.]]></item>
+        <item><![CDATA[Bayer 04 Leverkusen Fußball GmbH, atau juga dikenal sebagai Bayer 04 Leverkusen, Bayer Leverkusen, atau hanya Leverkusen,
+            adalah klub sepak bola profesional asal Jerman yang berbasis di Leverkusen di negara bagian Nordrhein-Westfalen. Klub bermain di Bundesliga,
+            tingkat teratas sepak bola Jerman, dan memainkan pertandingan kandangnya di BayArena. Klub ini didirikan pada tahun 1904 oleh
+            karyawan perusahaan farmasi Jerman, Bayer AG, yang bermarkas di Leverkusen dan nama klub diambil dari nama perusahaannya.\n\nPada tahun 1999
+            departemen sepak bola dipisahkan dari klub olahraga dan sekarang menjadi entitas terpisah yang secara resmi disebut Bayer 04 Leverkusen Fußball GmbH.
+            Bayer pertama kali promosi ke Bundesliga pada 1979, dan terus berada di divisi teratas sejak saat itu. Warna utama klub adalah merah dan hitam,
+            keduanya digunakan sebagai warna kaos utama dan dengan garis-garis merah dan hitam yang juga digunakan sebagai warna kandang.\n\nBayer Leverkusen sudah
+            lima kali menjadi runner-up di Bundesliga tanpa sekalipun menjuarai kompetisi, sebuah rekor di sepak bola Jerman. Klub ini telah memenangkan satu DFB-Pokal
+            dan satu UEFA Cup. Bayer juga menjadi runner-up di Liga Champions UEFA 2001–02, kalah 2-1 dari Real Madrid di final. Rival domestik mereka adalah FC Koln.]]></item>
+        <item><![CDATA[Paris Saint-Germain atau dikenal luas dengan sebutan PSG merupakan sebuah tim sepak bola Prancis yang bermain di Ligue 1,
+            divisi teratas sepak bola Prancis. Bermarkas di Paris, Prancis. Klub ini didirikan pada 12 Agustus 1972, berkat penggabungan
+            Paris FC dan Stade Saint-Germain. Sebagai klub Perancis yang paling sukses, mereka telah memenangkan lebih dari 40 penghargaan resmi,
+            termasuk sebelas gelar liga dan satu trofi utama Eropa. Markas mereka adalah Parc des Princes yang terletak di arondisemen ke-16 Paris
+            dekat komune Boulogne-Billancourt.\n\nParisians didirikan pada tahun 1970, setelah penggabungan Paris FC dan Stade Saint-Germain. PSG memenangkan gelar besar
+            pertama mereka, Piala Prancis pada tahun 1982 dan gelar Divisi 1 pertama mereka pada tahun 1986. Tahun 1990-an adalah salah satu periode tersukses dalam sejarah klub;
+            mereka merebut gelar liga kedua, tiga Piala Prancis, dua Piala Liga Prancis, dua Piala Super Prancis, dan Piala Winners UEFA pada tahun 1996. Setelah mengalami
+            kemerosotan peruntungan pada tahun 2000-an, tim Merah dan Biru menikmati kebangkitan sejak tahun 2011 dengan peningkatan dukungan finansial,
+            mencapai dominasi yang tak tertandingi di kompetisi domestik, memenangkan banyak gelar liga dan piala nasional. PSG juga menjadi pemain reguler di
+            Liga Champions UEFA, mencapai final pertama mereka pada tahun 2020. Mereka adalah klub sepak bola paling populer di Perancis dan salah satu tim
+            yang paling banyak didukung di dunia. Paris mempunyai persaingan lama dengan Olympique de Marseille, duo ini bertanding dalam pertandingan sepak bola
+            Prancis yang paling terkenal, Le Classique.\n\nTamim bin Hamad Al Thani, Emir Qatar, memiliki Paris Saint-Germain melalui pemegang saham tertutup
+            Qatar Sports Investments (QSI), yang membeli klub tersebut pada tahun 2011. Pengambilalihan tersebut menjadikan PSG klub terkaya di Prancis dan salah satu yang
+            terkaya di dunia. Paris saat ini memiliki pendapatan tertinggi kelima di dunia sepak bola dengan pendapatan tahunan sebesar €654 juta menurut Deloitte,
+            dan merupakan klub sepak bola ketujuh paling berharga di dunia, senilai $4,21 miliar menurut Forbes.]]></item>
+        <item><![CDATA[Olympique de Marseille, adalah nama tim sepak bola Prancis. Berbasis di Marseille. Tim ini didirikan tahun 1899, klub bermain di Ligue 1
+            dan telah menghabiskan sebagian besar sejarahnya di divisi teratas sepak bola Prancis. Di Prancis OM adalah klub yang paling banyak penggemarnya
+            dengan prestasi yang prestisius yang telah banyak diraih di berbagai kompetisi sepak bola terbaik. Pada tahun 1997, Marseille diakuisisi oleh pengusaha
+            Prancis-Swiss Robert Louis Dreyfus. Setelah kematiannya pada tahun 2009, jandanya Margarita menjadi pemegang saham utama klub pada tahun 2010. Pada tahun 2016,
+            pengusaha Amerika Frank McCourt membeli klub dari dia dan menunjuk perusahaan patungan JacquesHenri Eyraud ke posisi presiden klub, meskipun ia telah digantikan
+            oleh Pablo Longoria di tahun 2021. Klub saat ini dipimpin pelatih Argentina, Jorge Sampaoli.\n\nKlub ini telah memenangkan sepuluh gelar liga resmi
+            (sembilan kali di Ligue 1), sepuluh Piala Prancis dan tiga Piala Liga. Pada tahun 1993, pelatih Raymond Goethals memimpin tim untuk menjadi klub Prancis pertama
+            dan satu-satunya yang memenangkan Liga Champions UEFA, mengalahkan Milan 1-0 di final, pertandingan pertama setelah turnamen diumumkan. Diperbarui dalam format Liga Champions.
+            Pada 2010, Marseille memenangkan gelar Ligue 1 pertamanya dalam 18 tahun di bawah manajemen mantan kapten klub Didier Deschamps. Marseille juga memiliki rekor terbaik kedua
+            di Coupe de France, dengan sepuluh gelar. Marseille telah mencapai dua kejuaraan dan piala "Ganda", pada tahun 1972 dan 1989.]]></item>
+        <item><![CDATA[Olympique Lyonnais (atau biasa dipanggil Lyon saja) adalah klub sepak bola Prancis yang bermarkas di Lyon, Prancis.
+            Klub ini bermain di Ligue 1. Didirikan pada tahun 1899 di kota Chauses yang masuk kedalam wilayah Lyon, departemen Rhone.
+            Olympique Lyonnais saat ini berkedudukan di kota Lyon, Prancis selatan. Olympique Lyonnais merupakan salah satu klub tertua dan tersukses
+            di Prancis.\n\nOlympique Lyonnais dimiliki oleh pengusaha Rhône, Jean-Michel Aulas, yang mengakuisisi klub pada 15 Juni 1987.
+            Selain itu, Aulas juga merupakan pendiri dan chief operating officer dari CEGID (Compagnie Européenne de Gestion par Informatique Décentralisée).
+            Setelah mengatasi utang klub, Aulas melakukan restrukturisasi manajemen dan keuangan klub. Dalam dua dekade, ia berhasil mengubah klub dari
+            tim divisi kedua menjadi salah satu klub sepak bola terkaya di dunia.]]></item>
+        <item><![CDATA[Lille Olympique Sporting Club, biasa disebut sebagai LOSC, LOSC Lille atau hanya Lille, adalah klub sepak bola profesional Perancis
+            yang berbasis di Lille, Hauts-de-France yang berkompetisi di Ligue 1, divisi teratas sepak bola Prancis. Lille telah memainkan pertandingan kandangnya
+            sejak 2012 di Stade Pierre-Mauroy. Tempat dengan atap yang dapat dibuka berkapasitas 50.186 orang ini adalah stadion sepak bola terbesar
+            keempat di Prancis.\n\nLille didirikan sebagai hasil penggabungan antara Olympique Lillois dan SC Fives pada tahun 1944. Kedua klub tersebut merupakan
+            anggota pendiri Divisi 1 Prancis dan Olympique Lillois adalah juara perdana liga tersebut. Periode klub yang paling sukses adalah dekade 1946 hingga 1956,
+            pada periode pasca perang, ketika tim yang dipimpin oleh manajer George Berry dan André Cheuva memenangkan tujuh trofi utama, termasuk gelar ganda Liga atau Piala
+            pada tahun 1946, dan dikenal sebagai La Machine de Guerre (bahasa Prancis untuk "Mesin Perang"). Setelah memenangkan dua gelar lagi pada tahun 2011,
+            gelar liga keempat pada tahun 2021 serta piala super Prancis pertamanya, Lille adalah klub Prancis terbaik keempat di abad ke-21.\n\nDi sepak bola domestik,
+            klub telah memenangkan total empat gelar Ligue 1, enam Coupe de France dan satu Trophée des Champions sejak didirikan. Di sepak bola Eropa, Lille telah berpartisipasi
+            dalam Liga Champions UEFA delapan kali, mencapai fase sistem gugur dua kali, berkompetisi di Liga Eropa UEFA delapan kali dan memenangkan Piala Intertoto UEFA
+            pada tahun 2004 setelah finis sebagai runner-up pada tahun 2002.\n\nLille memiliki persaingan lama dengan tim terdekat RC Lens, yang dengannya mereka bertanding dalam
+            Derby du Nord. Lille memimpin dalam rekor head-to-head antara kedua rival dan dalam hal total trofi yang dimenangkan. Saat ini dimiliki oleh dana investasi yang berbasis di Luksemburg,
+            Merlyn Partners SCSp, dan merupakan klub olahraga Prancis dengan pengikut terbanyak kelima di media sosial.]]></item>
+    </string-array>
+    <!-- Football Clubs Image Resources -->
+    <integer-array name="data_img">
+        <item>@drawable/manchester_united</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/arsenal</item>
+        <item>@drawable/barcelona</item>
+        <item>@drawable/real_madrid</item>
+        <item>@drawable/atletico_madrid</item>
+        <item>@drawable/athletic_bilbao</item>
+        <item>@drawable/ac_milan</item>
+        <item>@drawable/juventus</item>
+        <item>@drawable/inter_milan</item>
+        <item>@drawable/as_roma</item>
+        <item>@drawable/bayern_munchen</item>
+        <item>@drawable/dortmund</item>
+        <item>@drawable/leipzig</item>
+        <item>@drawable/bayer_leverkusen</item>
+        <item>@drawable/psg</item>
+        <item>@drawable/marseille</item>
+        <item>@drawable/lyon</item>
+        <item>@drawable/lille</item>
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

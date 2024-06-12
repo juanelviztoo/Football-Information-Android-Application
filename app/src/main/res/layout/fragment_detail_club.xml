@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="60dp"
+    android:background="@drawable/football_bg11"
+    tools:context=".ui.dashboard.DetailClubFragment"
+    android:id="@+id/fragment_detail_club"
+    android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/imgDetailClub"
+                android:layout_width="match_parent"
+                android:layout_height="390dp"
+                android:scaleType="centerCrop"
+                tools:src="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/tvDetailClubName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:fontFamily="sans-serif-smallcaps"
+                android:textStyle="bold"
+                tools:text="@string/club_name" />
+
+            <TextView
+                android:id="@+id/tvDetailClubDesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:background="@drawable/bgtext_shape"
+                android:fontFamily="casual"
+                android:justificationMode="inter_word"
+                android:textStyle="bold"
+                tools:text="@string/description_club" />
+
+            <Button
+                android:id="@+id/btnVisitWebsite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/AppButtonStyle"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center"
+                android:textAllCaps="true"
+                android:text="@string/club_button" />
+
+        </LinearLayout>
+</ScrollView>
